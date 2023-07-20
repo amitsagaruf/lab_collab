@@ -3,7 +3,7 @@ def encode(password):
     print("Your password has been encoded and stored!")
     return password + 33333333
 
-# test change
+
 def decode():
     pass
 
